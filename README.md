@@ -1,18 +1,12 @@
-### 
+### Hi there 👋
+I'm Tao, a PhD student co-supervised by [Zhibo Chen](https://scholar.google.com/citations?user=1ayDJfsAAAAJ&hl=en) @ USTC and [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en) @ NUS.
 
-<!--
-**geekyutao/geekyutao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research interests lie in computer vision and reinforcement learning.
 
-Here are some ideas to get you started:
+<!-- [![geekyutao's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekyutao&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekyutao&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/geekyutao/github-readme-stats)
+ -->
+### Contact
+Email: yutao666@mail.ustc.edu.cn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=geekyutao&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Tao's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekyutao&show_icons=true&theme=tokyonight&show_icons=true)
