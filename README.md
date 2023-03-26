@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm Tao, a PhD student co-supervised by [Zhibo Chen](https://scholar.google.com/citations?user=1ayDJfsAAAAJ&hl=en) @ USTC and [Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en) @ NUS.
-
-My research interests lie in computer vision and reinforcement learning.
+I'm Tao. My research interests lie in computer vision and reinforcement learning.
 
 ### Contact
 Email: yutao666@mail.ustc.edu.cn
